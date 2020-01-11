@@ -19,6 +19,7 @@ I have the best locations, because if they want...
 
 ## To Do
 - add code for embedding projector in tensorboard
+- add tensorflow logs for tensorboard
 
 ## References
 - [Text generation with an RNN; TensorFlow](https://www.tensorflow.org/tutorials/text/text_generation)
